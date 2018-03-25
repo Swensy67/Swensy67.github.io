@@ -1,6 +1,7 @@
 ---
 output: html_document
 runtime: shiny
+title: "Map"
 ---
 
 ```{r setup, include=FALSE}
